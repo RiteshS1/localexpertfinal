@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+
+body{
+    background-color: rgb(38, 47, 44);
+}
+
+.first{
+    width: 20%;
+    height: 30%;
+}
